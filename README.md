@@ -1,5 +1,9 @@
 # Color Sort Algorithm (Prototype)
 
+**A simple and competitively efficient prototyped unstable sorting algorithm which sorts data according to a predefined color gradient spectrum**
+
+***`Requires Python >=3.14.4`***
+
 ## Package Link
 [pypi.org](https://pypi.org/project/color-sort-algorithm/)
 
@@ -15,8 +19,8 @@ from color_sort_prototype import ColorSort
 # Array filled with a variable amount of random/unsorted numbers
 unsortedData = []
 
-# First True = Ascending/Descending order
-# Second True/False = Numerical/Alphabetical sorting
+# First Bool = Ascending/Descending order
+# Second Bool = Numerical/Alphabetical sorting
 sortedData = ColorSort(unsortedData, True, True)
 ```
 ## Usage Example 2 (Alphabetical)
@@ -32,6 +36,7 @@ unsortedData = {
   2: "John"
 }
 
-# First True = Ascending/Descending order
-# Second True/False = Numerical/Alphabetical sorting
+# First Bool = Ascending/Descending order
+# Second Bool = Numerical/Alphabetical sorting
 sortedData = ColorSort(unsortedData, True, False)
+```
