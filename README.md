@@ -5,7 +5,7 @@
 ***`Requires Python >=3.14.4`***
 
 ## Package Link
-[pypi.org](https://pypi.org/project/color-sort-algorithm/)
+[pypi.org/project/color-sort-algorithm](https://pypi.org/project/color-sort-algorithm/)
 
 ## Install
 ```
