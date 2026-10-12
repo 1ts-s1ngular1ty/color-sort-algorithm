@@ -9,7 +9,7 @@
 
 ## Install
 ```
-pip install color_sort_algorithm
+pip install color-sort-algorithm
 ```
 
 ## Usage Example 1 (Numerical)
