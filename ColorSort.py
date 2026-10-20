@@ -1,7 +1,6 @@
 """
 *| COLOR SORT ALGORITHM (PROTOTYPE) |*
 AUTHOR: S1NGULAR1TY (@github/1ts-s1ngular1ty)
-DATE: 7/29/2026
 LICENSE: BSD 3-Clause
 LANGUAGE: Python (v3.14.4)
 DESCRIPTION: A creative and dominantly competitive prototyped unstable sorting algorithm which efficiently sorts data according to a predefined color gradient spectrum
